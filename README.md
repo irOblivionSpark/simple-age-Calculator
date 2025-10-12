@@ -43,7 +43,7 @@ cd simple-age-calculator
 Step 3: Run the Python script
 Now, you can run the program using Python:
 ```
-python Age.py
+python Bottl.py
 ```
 
 And that's it! The program will start in your terminal.
