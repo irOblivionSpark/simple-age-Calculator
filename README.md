@@ -29,10 +29,10 @@ If you have **Git** and **Python** installed on your computer, you can clone thi
 
 **Step 1: Clone the repository**
 
-Open your terminal or command prompt and run the following command. Replace `<Lix-fl>` with your actual username.
+Open your terminal or command prompt and run the following command. Replace:
 
 ```bash
-[git clone [https://github.com/](https://github.com/)<Lix-fl>/simple-age-calculator.git](https://github.com/Lix-fl/simple-age-Calculator.git)
+git clone https://github.com/Lix-fl/simple-age-Calculator.git
 ```
 
 Step 2: Navigate to the project directory
